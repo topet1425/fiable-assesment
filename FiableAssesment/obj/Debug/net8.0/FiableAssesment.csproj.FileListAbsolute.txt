@@ -1,0 +1,14 @@
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\bin\Debug\net8.0\FiableAssesment.exe
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\bin\Debug\net8.0\FiableAssesment.deps.json
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\bin\Debug\net8.0\FiableAssesment.runtimeconfig.json
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\bin\Debug\net8.0\FiableAssesment.dll
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\bin\Debug\net8.0\FiableAssesment.pdb
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\FiableAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\FiableAssesment.AssemblyInfoInputs.cache
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\FiableAssesment.AssemblyInfo.cs
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\FiableAssesment.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\FiableAssesment.dll
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\refint\FiableAssesment.dll
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\FiableAssesment.pdb
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\FiableAssesment.genruntimeconfig.cache
+C:\Users\DELL 5430\source\repos\FiableAssesment\FiableAssesment\obj\Debug\net8.0\ref\FiableAssesment.dll
